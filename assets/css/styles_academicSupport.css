@@ -1,0 +1,48 @@
+.text p:first-child {
+    margin-top: 0;
+}
+
+.text p:last-child {
+    margin-bottom: 0;
+}
+
+.text a {
+    position: relative;
+    color: #FF4E00;
+    text-decoration: none;
+}
+
+.text a:hover {
+    font-weight: bold;
+}
+
+.text a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #FF4E00;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+}
+
+.text a:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.list-main li{
+    margin-bottom: 15px;
+}
+
+.list-link {
+    padding-left: 25px;
+}
+
+.list-link li{
+    padding: 0;
+    list-style: none;
+}

@@ -1,0 +1,69 @@
+•VIH/SIDA:
+-Fiebre 				(S1)
+-Fatiga 				(S2)
+-Pérdida de peso			(S3)
+-Dolor de cabeza			(S4)
+-Dolor muscular				(S5)
+
+•Enfermedad de Crohn:
+-Dolor abdominal			(S6)
+-Diarrea				(S7)
+-Fatiga					(S2)
+-Pérdida de peso			(S3)
+-Erupciones cutáneas			(S8)
+
+•Artritis Reumatoide:
+-Fatiga					(S2)
+-Dolor articular			(S9)
+-Fiebre					(S1)
+-Pérdida de peso			(S3)
+-Erupciones cutáneas			(S8)
+
+•Neumonía:
+-Tos					(S10)
+-Fiebre					(S1)
+-Fatiga					(S2)
+-Dificultad para respirar		(S11)
+-Dolor de pecho				(S12)
+
+•Hepatitis C:
+-Ictericia				(S13)
+-Dolor abdominal			(S6)
+-Fatiga					(S2)
+-Pérdida de peso			(S3)
+-Náuseas				(S14)
+
+•Esclerosis Múltiple:
+-Fatiga					(S2)
+-Dolor de cabeza			(S4)
+-Pérdida de equilibrio			(S15)
+-Problemas de memoria			(S16)
+-Dolor muscular				(S5)
+
+•Diabetes Tipo 2:
+-Pérdida de peso			(S3)
+-Sed excesiva				(S17)
+-Fatiga					(S2)
+-Aumento de la frecuencia urinaria	(S18)
+-Cambios en la visión			(S19)
+
+•Leucemia:
+-Fatiga					(S2)
+-Palidez				(S20)
+-Fiebre					(S1)
+-Facilidad para hematomas		(S21)
+-Dolor óseo				(S22)
+
+•Insuficiencia Renal Crónica:
+-Fatiga					(S2)
+-Pérdida de apetito			(S23)
+-Náuseas				(S14)
+-Hinchazón en las extremidades		(S24)
+-Aumento de la presión arterial		(S25)
+
+•Enfermedad Celíaca:
+-Dolor abdominal			(S6)
+-Diarrea				(S7)
+-Pérdida de peso			(S3)
+-Fatiga					(S2)
+-Erupciones cutáneas			(S8)
